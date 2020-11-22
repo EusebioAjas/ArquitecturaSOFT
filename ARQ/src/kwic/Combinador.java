@@ -12,8 +12,8 @@ public class Combinador {
     this.conjuntoPalabras = new LinkedList<>();
   }
 
-  public void generarCombinaciones(List<String> palabras){
-    if(palabras != null) {
+  public void generarCombinaciones(List<String> palabras) {
+    if (palabras != null) {
       conjuntoPalabras.add(getCombinacion(palabras));
       for (int i = 0; i < palabras.size() - 1; i++) {
         String palabra = palabras.remove(PRIMER_ELMENTO);
@@ -23,9 +23,9 @@ public class Combinador {
     }
   }
 
-  public static List<String> getCombinacion(List<String> lista){
+  public static List<String> getCombinacion(List<String> lista) {
     List<String> nvaLista = new ArrayList<>();
-    for(int i= 0; i< lista.size(); i++){
+    for (int i = 0; i < lista.size(); i++) {
       nvaLista.add(lista.get(i));
     }
     return nvaLista;
@@ -33,5 +33,10 @@ public class Combinador {
 
   public List<List<String>> getConjuntoPalabras() {
     return conjuntoPalabras;
+  }
+
+  public void mostrarProceso() {
+    System.out.println("\nCombinaciones: ");
+    conjuntoPalabras.forEach(System.out::println);
   }
 }
