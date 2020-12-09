@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Combinador {
+public class Combinador implements Proceso{
   private List<List<String>> conjuntoPalabras;
   private static final int PRIMER_ELMENTO = 0;
 
@@ -23,7 +23,7 @@ public class Combinador {
     }
   }
 
-  public static List<String> getCombinacion(List<String> lista) {
+  private List<String> getCombinacion(List<String> lista) {
     List<String> nvaLista = new ArrayList<>();
     for (int i = 0; i < lista.size(); i++) {
       nvaLista.add(lista.get(i));
@@ -31,11 +31,13 @@ public class Combinador {
     return nvaLista;
   }
 
-  public List<List<String>> getConjuntoPalabras() {
+  @Override
+  public List<List<String>> obtenerSalida() {
     return conjuntoPalabras;
   }
 
-  public void mostrarProceso() {
+  @Override
+  public void mostrarSalida() {
     System.out.println("\nCombinaciones: ");
     conjuntoPalabras.forEach(System.out::println);
   }

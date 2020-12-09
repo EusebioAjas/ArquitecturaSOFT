@@ -20,5 +20,4 @@ public class Salida {
     System.out.println("\nSalida: ");
     cadenas.forEach(System.out::println);
   }
-
 }

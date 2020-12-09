@@ -3,7 +3,7 @@ package kwic;
 public class Cliente {
 
   public Cliente() {
-    Kwic kwic = new Kwic();
+    KWIC kwic = new KWIC();
     kwic.ejecutar();
   }
 

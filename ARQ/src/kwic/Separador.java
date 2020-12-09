@@ -2,7 +2,7 @@ package kwic;
 
 import java.util.*;
 
-public class Separador {
+public class Separador implements Proceso{
   private List<String> palabras = new ArrayList<>();
 
   public void separarPalabra(String palabra) {
@@ -12,11 +12,13 @@ public class Separador {
     }
   }
 
-  public List<String> getPalabras() {
+  @Override
+  public List<String> obtenerSalida() {
     return palabras;
   }
 
-  public void mostrarProceso() {
+  @Override
+  public void mostrarSalida() {
     System.out.println("\nSeparación:\n" + palabras);
   }
 }

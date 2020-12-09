@@ -2,22 +2,21 @@ package kwic;
 
 import java.util.List;
 
-public class Alfabetizador {
+public class Alfabetizador implements Proceso{
   private List<List<String>> combinaciones;
 
-  public Alfabetizador(List<List<String>> combinaciones) {
+  public void ordenar(List<List<String>> combinaciones) {
     this.combinaciones = combinaciones;
+    combinaciones.sort((str1, str2) -> str1.get(0).compareToIgnoreCase(str2.get(0)));
   }
 
-  public void ordenar() {
-    getCombinacionesOrdenadas().sort((str1, str2) -> str1.get(0).compareToIgnoreCase(str2.get(0)));
-  }
-
-  public List<List<String>> getCombinacionesOrdenadas() {
+  @Override
+  public List<List<String>> obtenerSalida() {
     return combinaciones;
   }
 
-  public void mostrarProceos() {
+  @Override
+  public void mostrarSalida() {
     System.out.println("\nOrdenamiento: ");
     combinaciones.forEach(System.out::println);
   }
