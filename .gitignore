@@ -1,3 +1,6 @@
 #excluir las sig rutas
 ARQ/.idea/sonarlint/*
 ARQ/.idea/sonarlint/issuestore/*
+
+RouterDesignPattern/out/production/**
+RouterDesignPattern/.idea/**
