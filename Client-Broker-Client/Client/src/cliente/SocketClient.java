@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.net.Socket;
 import java.util.Scanner;
 
-public class Cliente {
+public class SocketClient {
   private static final String IP_ADDRESS = "127.0.0.1";
   private static final int PORT = 59090;
 
