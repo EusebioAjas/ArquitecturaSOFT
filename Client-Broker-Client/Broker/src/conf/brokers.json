@@ -1,0 +1,24 @@
+{
+  "brokers": [
+    {
+      "name": "broker1",
+      "ip": "localhost",
+      "port": 59001
+    },
+    {
+      "name": "broker2",
+      "ip": "localhost",
+      "port": 59090
+    },
+    {
+      "name": "broker3",
+      "ip": "localhost",
+      "port": 59898
+    },
+    {
+      "name": "broker4",
+      "ip": "localhost",
+      "port": 58901
+    }
+  ]
+}

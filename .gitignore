@@ -4,3 +4,10 @@ ARQ/.idea/sonarlint/issuestore/*
 
 RouterDesignPattern/out/production/**
 RouterDesignPattern/.idea/**
+
+
+Client-Broker-Client/Broker/.idea/**
+Client-Broker-Client/Broker/out/**
+Client-Broker-Client/Client/.idea/**
+Client-Broker-Client/Client/out/**
+
