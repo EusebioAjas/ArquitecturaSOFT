@@ -1,0 +1,6 @@
+
+=
+java:S2189""Add an end condition to this loop.(Ò¹şõúÿÿÿÿ
+R
+java:S2589"7Remove this expression which always evaluates to "true"(Ò¹şõúÿÿÿÿ
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üí8ÚÖ‹Æí.

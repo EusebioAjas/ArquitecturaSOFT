@@ -1,0 +1,9 @@
+
+T	java:S1064"9Replace this use of System.out or System.err by a logger.(™ê€h8›Ê Òì.
+U	java:S106="9Replace this use of System.out or System.err by a logger.(õÂÂ¥8†ïÜÏì.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ÅÓ»Ñ8ïïÒÏì.
+S
+java:S1659,"1Declare "proccessedInputLine" on a separate line.(½¹ûüÿÿÿÿ8ŸêÒì.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÇ€íúÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(àòî38“ÚÆÏì.
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(Ä‰ë8¶±àÏì.

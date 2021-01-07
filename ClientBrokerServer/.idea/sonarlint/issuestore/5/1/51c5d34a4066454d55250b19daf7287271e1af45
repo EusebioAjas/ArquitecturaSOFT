@@ -1,0 +1,10 @@
+
+U
+java:S1854"8Remove this useless assignment to local variable "file".(Ğ¥Óì8üğíÍì.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×ÄĞüÿÿÿÿ
+|
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "content".(Ğ†¡í8òúïÍì.
+F
+java:S1481")Remove this unused "file" local variable.(Ğ¥Óì8üğíÍì.
+q
+java:S3008	"ORename this field "PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñí³Šıÿÿÿÿ8üğíÍì.

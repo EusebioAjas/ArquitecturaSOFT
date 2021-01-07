@@ -1,0 +1,11 @@
+
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(®—íÿÿÿÿÿ
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ƒúÚÅí.
+p
+java:S1450"URemove the "socket" field and declare it as a local variable in the relevant methods.(Å’¬Úşÿÿÿÿ
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8ô¯çªí.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üí8ÿÔ‹Æí.
+}
+java:S1450"[Remove the "socketOutput" field and declare it as a local variable in the relevant methods.(˜æÍúşÿÿÿÿ8Ğ¡¾³í.
+w
+java:S1450"URemove the "output" field and declare it as a local variable in the relevant methods.(Ù¿Ô“ùÿÿÿÿ8€¦¹³í.

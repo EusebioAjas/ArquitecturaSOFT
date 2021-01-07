@@ -1,0 +1,12 @@
+
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(Ùá¯à
+L
+java:S1128"1Remove this unused import 'cliente.SocketClient'.(••«›øÿÿÿÿ
+x	java:S116
+"WRename this field "SERIVCE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğšçùıÿÿÿÿ8äŒ¯ì.
+C
+java:S1170
+"!Make this final field static too.(ğšçùıÿÿÿÿ8äŒ¯ì.
+R
+java:S1068
+"0Remove this unused "SERIVCE_NAME" private field.(ğšçùıÿÿÿÿ8äŒ¯ì.

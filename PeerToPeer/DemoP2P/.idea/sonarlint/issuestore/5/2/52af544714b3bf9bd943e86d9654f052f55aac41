@@ -1,0 +1,12 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜Äø8ô³Ğí.
+w
+java:S1450"URemove the "config" field and declare it as a local variable in the relevant methods.(–Ü¥ßüÿÿÿÿ8¦ó‘Ğí.
+g
+java:S2674."JCheck the return value of the "read" call to see how many bytes were read.(øşÄœ8ÆÒ³Ïí.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(•Âš³ÿÿÿÿÿ8ÆÒ³Ïí.
+p
+java:S1450
+"[Remove the "salidaSocket" field and declare it as a local variable in the relevant methods.(àèì5
+r
+java:S1450"\Remove the "entradaStream" field and declare it as a local variable in the relevant methods.(àÇäÙ

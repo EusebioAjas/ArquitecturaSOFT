@@ -1,0 +1,6 @@
+
+G
+java:S1068	",Remove this unused "ATENDING" private field.(–‚¹Šúÿÿÿÿ
+H
+java:S1068"+Remove this unused "WAITING" private field.(«Š…8ƒ“àÔì.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆê¯üûÿÿÿÿ8‡Ûî¯ì.

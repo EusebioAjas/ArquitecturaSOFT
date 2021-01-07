@@ -1,0 +1,11 @@
+
+p
+java:S1450"[Remove the "salidaSocket" field and declare it as a local variable in the relevant methods.(àèì5
+r
+java:S1450	"\Remove the "entradaStream" field and declare it as a local variable in the relevant methods.(àÇäÙ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(•Âš³ÿÿÿÿÿ8í¶ÁÊí.
+`
+java:S2674"JCheck the return value of the "read" call to see how many bytes were read.(øşÄœ
+x
+java:S1450"[Remove the "socketServer" field and declare it as a local variable in the relevant methods.(‚úïâ8Ò›Ìí.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ïª³˜8±ÌòÍí.

@@ -1,0 +1,16 @@
+{
+  "peers": [
+    {
+      "name": "peer1",
+      "serviceName": "applyVote",
+      "ip": "localhost",
+      "port": "5500"
+    },
+    {
+      "name": "peer2",
+      "serviceName": "castVotes",
+      "ip": "localhost",
+      "port": "5200"
+    }
+  ]
+}

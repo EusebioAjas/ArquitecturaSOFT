@@ -1,0 +1,12 @@
+
+
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(óÊå·øÿÿÿÿ8»«úÍì.
+Q
+java:S3740,"/Provide the parametrized type for this generic.(•Î­Òúÿÿÿÿ8²ğˆÎì.
+L
+java:S3740."/Provide the parametrized type for this generic.(Ï†ºÛ8Î›ŒÎì.
+L
+java:S37404"/Provide the parametrized type for this generic.(©ì±8ÒŞ’Îì.
+L
+java:S37404"/Provide the parametrized type for this generic.(©ì±8ÒŞ’Îì.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ÍÑ‰

@@ -1,0 +1,9 @@
+
+
+java:S1319,"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(…ÿôö8ôŸ¼Îì.
+‘
+java:S13190"uThe type of the "candidates" object should be an interface such as "List" rather than the implementation "ArrayList".(ßáÒ8ôŸ¼Îì.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ˆÒµÿÿÿÿÿ8»Ë€Ïì.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ÍÑ‰
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“Š§•ùÿÿÿÿ8Œû¨Îì.

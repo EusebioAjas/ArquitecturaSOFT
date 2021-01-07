@@ -1,13 +1,18 @@
 #excluir las sig rutas
-ARQ/.idea/sonarlint/*
-ARQ/.idea/sonarlint/issuestore/*
+ARQ/.idea/sonarlint/
+ARQ/.idea/sonarlint/issuestore/
 
-RouterDesignPattern/out/production/**
-RouterDesignPattern/.idea/**
+RouterDesignPattern/out/
+RouterDesignPattern/.idea/
 
 
-Client-Broker-Client/Broker/.idea/**
-Client-Broker-Client/Broker/out/**
-Client-Broker-Client/Client/.idea/**
-Client-Broker-Client/Client/out/**
+Client-Broker-Client/Broker/.idea/
+Client-Broker-Client/Broker/out/
+Client-Broker-Client/Client/.idea/
+Client-Broker-Client/Client/out/
+
+PeerToPeer/P2P/out/
+PeerToPeer/P2P2/out/
+PeerToPeer/DemoP2P/out/
+PeerToPeer/DemoP2P2/out/
 

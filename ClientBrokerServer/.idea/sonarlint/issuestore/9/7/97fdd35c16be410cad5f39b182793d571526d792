@@ -1,0 +1,11 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ÇÈÍì.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(„«†Ôÿÿÿÿÿ8îëäÍì.
+q
+java:S3008"ORename this field "PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñí³Šıÿÿÿÿ8ªœ·Íì.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×ÄĞüÿÿÿÿ
+
+java:S1319"rThe type of the "objects" object should be an interface such as "List" rather than the implementation "ArrayList".(¼¹»8ªœ·Íì.
+e
+java:S2095!"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(…ë©æ8Üı¯Óì.

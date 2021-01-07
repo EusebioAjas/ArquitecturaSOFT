@@ -1,0 +1,21 @@
+
+[	java:S106¤"9Replace this use of System.out or System.err by a logger.(şìÛşüÿÿÿÿ8ïğÏ®ì.
+t
+java:S1450"XRemove the "outServer" field and declare it as a local variable in the relevant methods.(‹šñ8úˆº¬ì.
+f
+java:S1128"IRemove this unused import 'java.util.spi.AbstractResourceBundleProvider'.(Ùèì§8–†ö­ì.
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(ˆù¾şÿÿÿÿ8ïğÏ®ì.
+z	java:S1356"YReduce the total number of break and continue statements in this loop to use at most one.(äÉäåıÿÿÿÿ8ïğÏ®ì.
+I
+java:S1068"-Remove this unused "outServer" private field.(‹šñ8îÒö­ì.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ›’8«ø©¬ì.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(â‡œ¿úÿÿÿÿ8ïğÏ®ì.
+j
+java:S2259†"L"NullPointerException" will be thrown when invoking method "startService()".(‹ºËÈ8ïğÏ®ì.
+V	java:S106®"9Replace this use of System.out or System.err by a logger.(“¦ç8ïğÏ®ì.
+Z
+java:S1128"8Remove this unused import 'jdk.javadoc.doclet.Reporter'.(†ÂûÊûÿÿÿÿ8îØ¿­ì.
+[	java:S106”"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ïğÏ®ì.
+[	java:S106²"9Replace this use of System.out or System.err by a logger.(Øşóÿıÿÿÿÿ8ïğÏ®ì.
+n
+java:S3776-"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ó•øq8ïğÏ®ì.

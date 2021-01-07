@@ -1,0 +1,19 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Mike",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "name": "Donald",
+      "votes": 0
+    },
+    {
+      "id": 3,
+      "name": "Joe",
+      "votes": 0
+    }
+  ]
+}

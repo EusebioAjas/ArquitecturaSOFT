@@ -1,0 +1,16 @@
+
+O
+java:S1874"-Remove this use of "parse"; it is deprecated.(ß¯èûıÿÿÿÿ8øÏ´¸ì.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(âÛî©üÿÿÿÿ8·”ñ°ì.
+q
+java:S3008"ORename this field "PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ù±æıÿÿÿÿ8·”ñ°ì.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(îı­é8¬åİ¶ì.
+Š
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Ãùó8›¸±¶ì.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞùûN
+T
+java:S1874"2Remove this use of "JsonParser"; it is deprecated.(ß¯èûıÿÿÿÿ8Ó›¦¸ì.
+u
+java:S3008"XRename this field "DEAFAULT_PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¥âº8³õòÔì.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8Ç­»¸ì.

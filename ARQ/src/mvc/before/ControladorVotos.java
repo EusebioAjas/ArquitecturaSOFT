@@ -1,6 +1,8 @@
 package mvc.before;
 
 import javax.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class ControladorVotos extends JFrame implements Observable {
 
@@ -38,13 +40,13 @@ public class ControladorVotos extends JFrame implements Observable {
   }
 
   public void agregarCandidato(Candidato candidato) {
-    JButton btn = new JButton(candidato.getNombre());
     modeloVotos.addCandidato(candidato);
-    btn.addActionListener(e -> {
-      candidato.incrementarVoto();
-      System.out.println(candidato.getNombre() + ": [" + candidato.getNumVotos() + "]");
-      notificarTodos();
-    });
-    panel.add(btn);
+    JButton btn = new JButton(candidato.getNombre());
+    btn.addActionListener(e -> notificarVoto(candidato));
+  }
+
+  private void notificarVoto(Candidato candidato){
+    candidato.incrementarVoto();
+    notificarTodos();
   }
 }

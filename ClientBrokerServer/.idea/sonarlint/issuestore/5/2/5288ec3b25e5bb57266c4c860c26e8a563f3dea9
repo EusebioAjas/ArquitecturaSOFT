@@ -1,0 +1,11 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æ’ôˆüÿÿÿÿ8“Ûƒİì.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(®ğí‡üÿÿÿÿ8ƒœİì.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼Âëºıÿÿÿÿ8ƒ‡şÜì.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌÇĞšøÿÿÿÿ8Âœ°ì.
+v
+java:S1450"YRemove the "connection" field and declare it as a local variable in the relevant methods.(ÿ›ÅÒ8çßû¹ì.
+Q
+java:S37403"/Provide the parametrized type for this generic.(ñı€ùÿÿÿÿ8‰ÉéŞì.
+L
+java:S37404"/Provide the parametrized type for this generic.(ÍîËñ8‰ÉéŞì.

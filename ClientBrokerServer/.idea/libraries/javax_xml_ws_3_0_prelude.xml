@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.xml.ws-3.0-prelude">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/java-lib/javax.xml.ws-3.0-prelude.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

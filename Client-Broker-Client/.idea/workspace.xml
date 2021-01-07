@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9da609cf-47c7-4fec-8345-624ec92fa21e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Broker/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client-Broker-Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client/src/cliente/SocketClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Server/out/production/Server/server/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARQ/ARQ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ARQ/ARQ.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARQ/src/mvc/before/ControladorVotos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ARQ/src/mvc/before/ControladorVotos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArquitecturaSOFT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/.idea/sonarlint/issuestore/b/8/b8c3c283dd8fc2de57daee27a74d19196eeb3408" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/.idea/sonarlint/issuestore/b/8/b8c3c283dd8fc2de57daee27a74d19196eeb3408" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/Broker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/Broker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/Broker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/Broker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/BrokerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/BrokerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/Protocol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/Protocol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/entidades/BrokerAdrr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/entidades/BrokerAdrr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/entidades/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/entidades/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/entidades/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/entidades/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/entidades/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/entidades/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/entidades/SocketAddr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/entidades/SocketAddr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/entidades/TypeRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/entidades/TypeRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/entidades/TypeResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/entidades/TypeResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/exceptions/BrokerConnectionErrorException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/exceptions/BrokerConnectionErrorException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/exceptions/BrokerException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/exceptions/BrokerException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/exceptions/InvalidDataFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/exceptions/InvalidDataFormatException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/exceptions/ServerErrorException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/exceptions/ServerErrorException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/exceptions/ServiceAlreadyDefinedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/exceptions/ServiceAlreadyDefinedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/exceptions/ServiceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/exceptions/ServiceException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/exceptions/ServiceNotAvailableException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/exceptions/ServiceNotAvailableException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/exceptions/ServiceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/exceptions/ServiceNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/broker/utils/ServerResponses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/broker/utils/ServerResponses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/conf/brokers.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/conf/brokers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker/src/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Broker/src/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/Client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client/Client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/out/production/Client/cliente/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/src/cliente/SocketClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/Server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/Server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/out/production/Server/server/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/src/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server/src/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagramas/MVCFinal.asta" beforeDir="false" afterPath="$PROJECT_DIR$/../diagramas/MVCFinal.asta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diagramas/MVCVotos.asta.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1mXRKumJqCKZph6lmfN0QqtiOwd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9da609cf-47c7-4fec-8345-624ec92fa21e" name="Default Changelist" comment="" />
+      <created>1609637889071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609637889071</updated>
+      <workItem from="1609637890201" duration="432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
