@@ -1,22 +1,6 @@
 
 ;
 DemoP2P.iml,a/3/a36622b47a7f4f90b6c2f92c982f6c1052a23a57
-@
-src/Message.java,4/3/43c72cf24687297679ab21aef9fea90b45847f3f
->
-src/Entry.java,5/8/585a4dde5130e7c051e7eb4dadba909d0d719c12
-F
-src/Configuration.java,6/9/6997ad3ce2c5f7910f8b02110cd473d3190a756a
-?
-src/Client.java,f/a/fab6dac3cdc568ed7aa4122a6189ef47d0fab33c
-B
-src/Forwarder.java,3/c/3c3dd1ff943d59eed921c36123d36d536ce98cc7
-A
-src/Registry.java,2/8/28ab622b9838bf2f29d75af9b1b6e3b394a71275
-=
-src/Peer.java,5/9/5965d1e4f2059deaf4b3764053cfae8275a29fe7
-A
-src/Receiver.java,7/2/723a4a5e2d283bc864cc3f1b8a79a3c6634056cc
 F
 src/model/Message.java,8/8/881eca4b66949c9080af2cd41ec9e724bce03509
 D

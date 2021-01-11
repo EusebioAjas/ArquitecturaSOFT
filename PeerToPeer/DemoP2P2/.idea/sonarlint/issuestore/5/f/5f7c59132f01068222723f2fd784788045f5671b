@@ -1,5 +1,5 @@
 
 w
 java:S1450"URemove the "config" field and declare it as a local variable in the relevant methods.(–Ü¥ßüÿÿÿÿ8Ä“ïÏí.
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’îèç8‹Ñ›Ñí.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(øý˜‚þÿÿÿÿ8²íŸÐí.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’îèç8‹Ñ›Ñí.

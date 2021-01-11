@@ -1,8 +1,0 @@
-
-Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ˆÜÅ®ùÿÿÿÿ8ß¥ÂÊí.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(íÍÛ48À¬ÒÎí.
-q
-java:S1450"[Remove the "streamSalida" field and declare it as a local variable in the relevant methods.(Éßş×
-M
-java:S1068"0Remove this unused "fowarderName" private field.(ü†¥8ØóÕÌí.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Óõÿşÿÿÿÿ8€ÚÓÎí.
