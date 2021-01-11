@@ -1,9 +1,9 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8‘¶Áí.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8¨ùÀí.
 t
 java:S1104"RMake thread a static final constant or non-public and provide accessors if needed.(ÌÔáĞùÿÿÿÿ8ï½«©í.
-n
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ûâ¦8Ë¸ÈÇí.
 v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üí8èïŠÆí.
 U	java:S106"9Replace this use of System.out or System.err by a logger.(Ûâ¦8ÆÇí.
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ûâ¦8Ë¸ÈÇí.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8‘¶Áí.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8¨ùÀí.

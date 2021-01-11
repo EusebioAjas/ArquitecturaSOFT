@@ -2,17 +2,27 @@
 ARQ/.idea/sonarlint/
 ARQ/.idea/sonarlint/issuestore/
 
+#router design pattern folders
 RouterDesignPattern/out/
 RouterDesignPattern/.idea/
 
-
+#Broker .idea & out folders
 Client-Broker-Client/Broker/.idea/
 Client-Broker-Client/Broker/out/
 Client-Broker-Client/Client/.idea/
 Client-Broker-Client/Client/out/
 
+#out folders' PeerToPeer
 PeerToPeer/P2P/out/
 PeerToPeer/P2P2/out/
 PeerToPeer/DemoP2P/out/
 PeerToPeer/DemoP2P2/out/
+
+#.idea folders' PeerToPeer
+PeerToPeer/P2P2/.idea/
+PeerToPeer/P2P/.idea/
+
+#ignoring files by extension *.class
+*.class
+/*.class
 

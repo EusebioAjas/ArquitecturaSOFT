@@ -1,14 +1,6 @@
 
-M
-src/model/ReceiverThread.java,a/2/a23dca7481c7d74e42327d0537f63b0a3fa924cf
-C
-src/model/Peer.java,0/d/0d2897d97d779bbc4ecf7a018df4d926257ca2ac
-G
-src/model/Receiver.java,5/2/52af544714b3bf9bd943e86d9654f052f55aac41
 ?
 src/Client.java,f/a/fab6dac3cdc568ed7aa4122a6189ef47d0fab33c
-H
-src/model/Forwarder.java,5/f/5f7c59132f01068222723f2fd784788045f5671b
 H
 src/files/peersInfo.json,9/0/90671450e9e1b3b6845fc94f709ab105a26f5950
 K
@@ -29,3 +21,19 @@ F
 src/p2p/Forwarder.java,3/b/3b282d49dbc2b27125c0f1ca24d78eecf5464ff0
 K
 src/p2p/ReceiverThread.java,5/f/5f8b340da51d163edf2e68d92c99a9d1d0b01644
+D
+src/model/Entry.java,1/c/1c9cd02fb31ddbbffe020479f855de48ab2a238b
+G
+src/model/Registry.java,1/8/18ca8e86f4ac701eacd763fe8c3b9a5d87e26116
+F
+src/model/Message.java,8/8/881eca4b66949c9080af2cd41ec9e724bce03509
+H
+src/model/Forwarder.java,5/f/5f7c59132f01068222723f2fd784788045f5671b
+L
+src/model/Configuration.java,7/9/79d83ff49596699bd6da4775a278618e950cb3a3
+G
+src/model/Receiver.java,5/2/52af544714b3bf9bd943e86d9654f052f55aac41
+E
+src/model/Client.java,3/2/32a33b3def0d68db33d12d1a0e041f326bcf8a4e
+C
+src/model/Peer.java,0/d/0d2897d97d779bbc4ecf7a018df4d926257ca2ac

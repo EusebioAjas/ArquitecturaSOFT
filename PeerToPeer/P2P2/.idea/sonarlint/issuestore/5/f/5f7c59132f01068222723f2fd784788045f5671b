@@ -1,9 +1,8 @@
 
-}
-java:S1450"[Remove the "socketOutput" field and declare it as a local variable in the relevant methods.(˜æÍúşÿÿÿÿ8Ğ¡¾³í.
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(—ü¿†øÿÿÿÿ8ô¯çªí.
-S	java:S106*"9Replace this use of System.out or System.err by a logger.(®—íÿÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ì—¾û8µŞì‰î.
+S	java:S106""9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
 p
-java:S1450"URemove the "socket" field and declare it as a local variable in the relevant methods.(Å’¬Úşÿÿÿÿ
-w
-java:S1450"URemove the "output" field and declare it as a local variable in the relevant methods.(Ù¿Ô“ùÿÿÿÿ8€¦¹³í.
+java:S1450"URemove the "socket" field and declare it as a local variable in the relevant methods.(Å’¬Úşÿÿÿÿ
+q
+java:S1450	"[Remove the "outputStream" field and declare it as a local variable in the relevant methods.(Û‚õ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ÉÅ˜úüÿÿÿÿ
