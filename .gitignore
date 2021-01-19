@@ -1,6 +1,5 @@
 #excluir las sig rutas
 ARQ/.idea/sonarlint/
-ARQ/.idea/sonarlint/issuestore/
 
 #router design pattern folders
 RouterDesignPattern/out/
